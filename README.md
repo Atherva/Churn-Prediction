@@ -1,2 +1,2 @@
-# Churn-Prediction
+# Credit card Churn-Prediction
 This is my first Data Analytics project using python. I downloaded the dataset from https://www.kaggle.com/sakshigoyal7/credit-card-customers. The dataset had two unnecessary columns for predicition which I removed. I used seaborn and matplotlib for data visualization. While visualizing the data, it was clear that the predictor class was imbalanced. To get precise results, it is a must to balance them out. I have used a simple oversampling method to balance out the class variable. In such case, I have used precision-recall to evaluate the model.
